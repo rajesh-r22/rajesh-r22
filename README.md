@@ -7,7 +7,7 @@
 
 🔭 I’m working on full-stack projects using React + Spring Boot
 
-📚 I'm currently leveling up on TypeScript & advanced Spring Boot
+📚 I'm currently leveling up on JavaScript & advanced Spring Boot
 
 ⚡ I love building production-ready projects and testing APIs professionally
 
