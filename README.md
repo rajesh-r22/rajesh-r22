@@ -29,7 +29,7 @@
 
 Build pixel-perfect frontend interfaces
 
-Create REST APIs with proper layers (Controller → Service → Repository)
+Create REST APIs with proper layers (Controller -> Dto → Service → Repository-> DataBase)
 
 Write clean, readable Java + Spring Boot code
 
