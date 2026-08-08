@@ -28,7 +28,7 @@ I'm a **Java Backend Developer** based in Hyderabad, India, focused on building 
 - 🌐 Former **Full Stack Developer Intern** at **Sushikha Capitals**, Bengaluru
 - 🔓 Active **open-source contributor** to `TheAlgorithms/Java`
 - 🧠 Strong in **OOP, Design Patterns, Multithreading, and DSA**
-- 📈 Currently deep-diving into advanced **Spring Boot**, **system design**, and **API security**
+- 📈 Currently deep-diving into advanced **Spring Boot**, **system design**,**AI Integration**, and **API security**
 
 ---
 
